@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.thumbnailContainer {
+  display: flex;
+  width: 100%;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.closeButton {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}
+.popup-content {
+  background-color: #ffffff;
+  height: 300px;
+  width: 460px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.player {
+  height: 100px;
+}
+.closeButtonContainer {
+  text-align: right;
+}
+.closeIcon {
+  font-size: 20px;
+}

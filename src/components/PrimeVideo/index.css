@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.primeVideoImage {
+  height: 260px;
+  width: 100%;
+}
+.actionHead {
+  font-family: roboto;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 24px;
+  margin-left: 20px;
+}
+.bgContainer {
+  background-color: #000000;
+  height: 160vh;
+}
+.actionMoviesContainer {
+  display: flex;
+}
+.thumbnailContainer {
+  display: flex;
+  height: 100vh;
+  background-color: red;
+}
+.moviesContainer {
+  width: 100%;
+  text-align: center;
+  padding: 60px;
+}
